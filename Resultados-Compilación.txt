@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 11:28 p. m....
+1>------ Operación Compilar iniciada: Proyecto: dia8_sumar_, configuración: Debug x64 ------
+1>dia8_sumar_.cpp
+1>dia8_sumar_.vcxproj -> C:\Users\matia\source\repos\dia8_sumar_\dia8_sumar_\x64\Debug\dia8_sumar_.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 11:28 p. m. y tardó 05.147 segundos ==========
